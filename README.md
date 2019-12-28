@@ -21,7 +21,18 @@ The other .yaml files expect this format:
      * A `take` value larger than the actual number of levels just means "always take all the levels in this group".
    * `levels`: A array of urls to levels.
      * I'm using JSON-style arrays here to avoid sneaky indentation errors with nested YAML arrays
-   
+
 Please look at the existing files for examples.
+
+
+## Adding a new booster pack
+
+ * Use an existing .yaml file to guide you when you write the new one.
+ * Commit the .yaml file to this repository, without editing the `boosters.yaml` yet.
+ * Manually enter in the search bar of the website `booster=YOUR_YAML_FILE`, where `YOUR_YAML_FILE` is the .yaml you added, without the .yaml extension.
+    * For instance, if I added a booster pack called `kamotrine.yaml`, I would enter in the search bar `booster=kamotrine`.
+ * Once you've verified that that works, you can add the new booster pack to `boosters.yaml`.
+
+
 
 Make sure to run your edits through a validator (such as http://www.yamllint.com/), before pushing a change.
