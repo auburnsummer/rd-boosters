@@ -9,6 +9,8 @@ It uses the YAML format. Here's a primer on the expected format of the `boosters
     * `title`: The title of the starter pack
     * `description`: The description of the starter pack
     * `file`: The name of the .yaml file that contains the levels for the starter pack, **without the .yaml extension**.
+    * `dynamic`: Set to `true` if the pack should be marked as dynamic. Set to `false` or leave it out otherwise.
+      * This is only a visual cue and doesn't effect the behaviour of the pack. 
 
 Please look at the existing `boosters.yaml` file as an example.
 
