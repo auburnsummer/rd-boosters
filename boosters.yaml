@@ -1,6 +1,7 @@
 - title: "Starter Pack"
   description: "A balanced mix to start with."
   file: "starter"
+  dynamic: true
 - title: "Daily Blend"
   description: "Levels that have been featured in Daily Blend."
   file: "blend"
@@ -10,3 +11,4 @@
 - title: "Plaster's Pastimes"
   description: "A special mix by the Master of Plaster"
   file: "plaster"
+  dynamic: true
