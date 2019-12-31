@@ -37,4 +37,4 @@ Please look at the existing files for examples.
 
 
 
-Make sure to run your edits through a validator (such as http://www.yamllint.com/), before pushing a change!
+Make sure to run your edits through a validator (such as http://www.yamllint.com/), before pushing a change.
