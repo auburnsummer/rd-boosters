@@ -2,12 +2,23 @@
   description: "A balanced mix to start with."
   file: "starter"
   dynamic: true
+
 - title: "Daily Blend"
   description: "Levels that have been featured in Daily Blend."
   file: "blend"
+
+- title: "Space Vibes"
+  description: "Take a trip through the stars with these space themed levels."
+  file: "spacevibes"
+
+- title: "Competition Winners"
+  description: "Levels that won their themed competitions."
+  file: "competition"
+
 - title: "RDSRT1"
   description: "Levels featured in the first Rhythm Doctor Sight Reading Tournament."
   file: "rdsrt1"
+
 - title: "Plaster's Pastimes"
   description: "A special mix by the Master of Plaster"
   file: "plaster"
