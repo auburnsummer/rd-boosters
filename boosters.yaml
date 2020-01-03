@@ -11,6 +11,11 @@
   description: "Take a trip through the stars with these space themed levels."
   file: "spacevibes"
 
+- title: "Cherished Chiptunes"
+  description: "A variety of levels that feature chiptune music."
+  file: "chiptunes"
+  dynamic: true
+
 - title: "Competition Winners"
   description: "Levels that won their themed competitions."
   file: "competition"
