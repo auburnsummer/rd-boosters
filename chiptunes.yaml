@@ -1,0 +1,33 @@
+﻿- take: 8
+  levels: [
+    "https://cdn.discordapp.com/attachments/362784581344034816/653202640850911245/an0va_-_Christmas_Time_Is_Here.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/618156548287365166/Ukigumo.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/617566922526949376/Grant_Kirkhope_-_Hero_Klungo_Sssavesss_Teh_World.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/626229457111482389/Funk_Shuffle.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/659020896664813568/Chipzel_-_tokyo_Skies.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/661724058156662805/Sabrepulse_-_Termination_Shock.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/643943202809839646/Chroma_-_I.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/635960217007554586/Christophe_Heral_-_Mariachi_Madness.rdzip",
+
+  ]
+
+- take: 1
+  levels: [
+    # set up so there is a *very* small chance of madness waltz instead of mischeif waltz
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/652573644274270217/Xeno_-_Madness_Waltz.rdzip",
+  ]
