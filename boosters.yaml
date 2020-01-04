@@ -3,10 +3,6 @@
   file: "starter"
   dynamic: true
 
-- title: "Daily Blend"
-  description: "Levels that have been featured in Daily Blend."
-  file: "blend"
-
 - title: "Space Vibes"
   description: "Take a trip through the stars with these space themed levels."
   file: "spacevibes"
