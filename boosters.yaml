@@ -10,6 +10,7 @@
 - title: "Video Games"
   description: "Grab a controller and play some levels with songs from your favorite games."
   file: "videogames"
+  dynamic: true
 
 - title: "Cherished Chiptunes"
   description: "A variety of levels that feature chiptune music."
