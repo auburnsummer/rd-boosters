@@ -32,3 +32,7 @@
 - title: "Melodic Memes"
   description: "Quality not guaranteed."
   file: "meme"
+
+- title: "Chill Jams"
+  description: "Levels with slow tempos and cool beats."
+  file: "chill"
