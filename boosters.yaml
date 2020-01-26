@@ -17,6 +17,10 @@
   file: "chiptunes"
   dynamic: true
 
+- title: "Chill Jams"
+  description: "lofi beats to defibrillate patients to"
+  file: "chill"
+
 - title: "Competition Winners"
   description: "Levels that won their themed competitions."
   file: "competition"
@@ -32,7 +36,3 @@
 - title: "Melodic Memes"
   description: "Quality not guaranteed."
   file: "meme"
-
-- title: "Chill Jams"
-  description: "Levels with slow tempos and cool beats."
-  file: "chill"
