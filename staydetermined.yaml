@@ -1,4 +1,4 @@
-- take: 8
+- take: 99
   levels: [
     "https://cdn.discordapp.com/attachments/362784581344034816/662445508245061643/Toby_Fox_-_Fallen_Down.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/623280355733930034/Toby_Fox_-_Beginning.rdzip",
@@ -8,5 +8,5 @@
     "https://cdn.discordapp.com/attachments/611380148431749151/623280392048214016/Toby_Fox_-_Fanfare_From_Rose_of_Winter.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/617562503916027934/Galactic_Hole_-_lancer_from_deltarune_raps.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/625847890199314442/Toby_Fox_-_THE_WORLD_REVOLVING.rdzip",
-    # if samario's megalovania was here i would put it in but oof
+    "https://cdn.discordapp.com/attachments/611380148431749151/674334624406831127/Toby_Fox_-_MEGALOVANIA.rdzip",
   ]
