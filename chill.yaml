@@ -1,4 +1,4 @@
-- take: 7
+- take: 6
   levels: [
     "https://cdn.discordapp.com/attachments/611380148431749151/617562654189551616/Cerulean_-_Secure.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/643554980078419988/Pascal_Michael_Stiefel_-_Clocktowers_Beneath_The_Sea.rdzip",
@@ -6,5 +6,4 @@
     "https://cdn.discordapp.com/attachments/611380148431749151/617578843229782017/Andrew_Huang_Rob_Scallon_-_TINES.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/617577235196674067/dull_machine_-_september.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/617827249411850241/ANIMA_-_Blood.rdzip",
   ]
