@@ -1,17 +1,33 @@
 - take: 99999 # an arbitarily large number means: just grab all the levels
   levels: [
     "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
+    # Further
+    # Take A Rest
     "https://cdn.discordapp.com/attachments/611380148431749151/646713957725241355/AlienAlien.rdzip",
+    # Steel Mill
+    # Elevatia
     "https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip",
+    # Role-Playing Game
+    # Miami Nights
     "https://cdn.discordapp.com/attachments/611380148431749151/625086214906576896/dj_REMO-CON_-_Click_Again.rdzip",
+    # Funk Hole
+    "https://cdn.discordapp.com/attachments/611380148431749151/674354741274214410/IGOR_-_Testify.rdzip",
+    # My Future Girlfriend
+    # Day-Shift Solar Beam
     "https://cdn.discordapp.com/attachments/611380148431749151/635959652009377802/DDRKirbyISQ_-_Solar_Beam_Expert_Mix.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/625085947897446440/Xeno_-_Beat_Distinguisher.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/625086431077072909/P_-_triplebaka.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/627279086447886336/Noisemaker_-_Repent_Your_Sins.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/682708241649893540/Taskmusic_-_.rdzip",
     # exorcism arrow
+    "https://cdn.discordapp.com/attachments/611380148431749151/627279086447886336/Noisemaker_-_Repent_Your_Sins.rdzip",
     # flamingo
     "https://cdn.discordapp.com/attachments/611380148431749151/643810834010865714/IAHM_-_Happy_Welus.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/617826740378533908/ALRT_-_My_Level.rdzip",
+    # Money
+    # 15 Step
+    # Are We The Waiting / St. Jimmy
+    # Ghosts Play to the Audience
+    "https://cdn.discordapp.com/attachments/611380148431749151/682708241649893540/Taskmusic_-_.rdzip",
     "https://cdn.discordapp.com/attachments/611380148431749151/617589981216505866/Washington_-_How_to_Tame_Lions.rdzip",
+    # Chopin ????
+    "https://cdn.discordapp.com/attachments/611380148431749151/617826740378533908/ALRT_-_My_Level.rdzip",
+    # Duo Blade Against
   ]
