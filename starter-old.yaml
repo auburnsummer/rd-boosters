@@ -24,7 +24,7 @@
   ]
 
 # medium
-- take: 2
+- take: 3
   levels:
       - take: 3
         levels: [
@@ -64,7 +64,7 @@
         ]
 
 # hard
-- take: 2
+- take: 3
   levels:
       - take: 3
         levels: [
@@ -82,7 +82,7 @@
           "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
           "https://cdn.discordapp.com/attachments/611380148431749151/688388022747791402/owltree_-_P-qoq.rdzip"
         ]
- 
+
 # hard "boss"
 - take: 1
   levels:
