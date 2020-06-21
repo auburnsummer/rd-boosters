@@ -42,7 +42,6 @@
 - take: 1
   levels:
     - "https://cdn.discordapp.com/attachments/611380148431749151/654580455122927656/Creo_-_Glome.rdzip"
-    - "https://cdn.discordapp.com/attachments/611380148431749151/691418426669006948/BoA_-_One_Shot_Two_Shot.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/717072216897880114/DDRKirbyISQ_-_Solar_Beam.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/705580225714716682/ARM_IOSYS_-_Streak.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/651616509382230051/Special_Delivery.rdzip"
@@ -52,7 +51,10 @@
         - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/658400293116969021/Metronomic_Tachycardia_Tutorial.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/705108398232043640/LemKuuja_-_Ouais_Ouais.rdzip"
-
+    - take: 2
+      levels:
+       - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
+       - "https://cdn.discordapp.com/attachments/611380148431749151/691418426669006948/BoA_-_One_Shot_Two_Shot.rdzip"
 # hard
 - take: 3
   levels:
