@@ -1,156 +1,125 @@
-# simple levels with only classic rows
-- take: 2
+# easy
+- take: 3
   levels: [
-    # september - lugi
-    "https://cdn.discordapp.com/attachments/611380148431749151/617577235196674067/dull_machine_-_september.rdzip",
-    # pon - kneeckoh
-    "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
-    # blackberry jam - klyzx
-    "https://cdn.discordapp.com/attachments/611380148431749151/635960379528445993/Louie_Zong_-_Blackberry_Jam.rdzip",
-    # tines - lugi
-    "https://cdn.discordapp.com/attachments/611380148431749151/693642476258459719/Andrew_Huang_Rob_Scallon_-_TINES_new.rdzip",
-    # buzz lightyear (wrld mix) - klyzx
-    "https://cdn.discordapp.com/attachments/611380148431749151/667506228951515137/Half_an_Orange_-_Buzz_Lightyear_WRLD_Remix.rdzip",
-    # leekspin - kneeckoh
-    "https://cdn.discordapp.com/attachments/611380148431749151/644360805491671041/Hatsune_Miku_-_Leekspin.rdzip",
-    # karate man - lugi
-    "https://cdn.discordapp.com/attachments/611380148431749151/617576301007732746/Tsunku_-_Karate_Man.rdzip",
-    # mischief waltz - xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip"
+      "https://cdn.discordapp.com/attachments/611380148431749151/644360805491671041/Hatsune_Miku_-_Leekspin.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/635960379528445993/Louie_Zong_-_Blackberry_Jam.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/693642476258459719/Andrew_Huang_Rob_Scallon_-_TINES_new.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/617576301007732746/Tsunku_-_Karate_Man.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/659846412967608323/Kazumi_Totaka_-_Creative_Exercise.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/651950617769803776/Lena_Raine_-_First_Steps.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/709035281847681075/Patric_Catani_-_Laidback_Thrills.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/684177866971545690/They_Might_Be_Giants_-_Cloissonne.rdzip"
   ]
-# more difficult levels, but still only classics
-- take: 2
-  levels: [
-    # alien alien - f.station
-    "https://cdn.discordapp.com/attachments/611380148431749151/646713957725241355/AlienAlien.rdzip",
-    # clash - noche
-    "https://cdn.discordapp.com/attachments/611380148431749151/627983416998101012/Trip40_-_Clash.rdzip",
-    # daft punk acapella medley - afterglow
-    "https://cdn.discordapp.com/attachments/611380148431749151/627306607474114570/Pentatonix_-_Daft_Punk_acapella_medley.rdzip",
-    # all i need - noche
-    "https://cdn.discordapp.com/attachments/611380148431749151/627982705514119174/eedion__FluxFlame_-_All_I_Need_90_Miles_Remix.rdzip",
-    # moving mountains - kin
-    "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip",
-    # apple dot com - kneeckoh
-    "https://cdn.discordapp.com/attachments/611380148431749151/622984551177650217/PinocchioP_-_Apple_Dot_Com.rdzip",
-    # american boy (beat juggle) - cv
-    "https://cdn.discordapp.com/attachments/611380148431749151/652936403939754034/American_Boy_Beat_Juggle.rdzip",
-    # time traveler - sprinklez
-    "https://cdn.discordapp.com/attachments/611380148431749151/628409289257517056/KNOWER_-_Time_Traveler.rdzip"
-  ]
-# introductory oneshots
-- take: 2
-  levels: [
-    # talking sleeping waiting - sprinklez
-    "https://cdn.discordapp.com/attachments/362784581344034816/656358916669702154/JHAS_-_Talking_Sleeping_Waving_Waiting.rdzip",
-    # believe - noche
-    "https://cdn.discordapp.com/attachments/611380148431749151/627983257987973140/Spaze_-_Believe.rdzip",
-    # believer - plaster
-    "https://cdn.discordapp.com/attachments/611380148431749151/671125156491427851/Imagine_Dragons_-_Believer.rdzip",
-    # crystalline - noche
-    "https://cdn.discordapp.com/attachments/611380148431749151/627982665680814080/Crusher-P_feat._Megpoid_Gumi_-_Crystalline.rdzip",
-    # the fire - kin
-    "https://cdn.discordapp.com/attachments/611380148431749151/664936681950019593/ANIMA_-The_Firev5.rdzip",
-    # spotlight - dps2000
-    "https://cdn.discordapp.com/attachments/611380148431749151/684180709132468248/Andy_Grammer_-_Spotlight.rdzip",
-    # cloissone - tuckerderp, xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/684177866971545690/They_Might_Be_Giants_-_Cloissonne.rdzip",
-    # machine gun - lugi
-    "https://cdn.discordapp.com/attachments/611380148431749151/617579286186033162/KIRA_ft._GUMI_English_-_Machine_Gun.rdzip",
-    # altale - 무명악보, Celesia, and Xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/690939858130042970/Sakuzyo_-_Altale.rdzip",
-  ]
-# more complex levels / irregular oneshots
-- take: 2
-  levels: [
-    # rhythm of your heart - afterglow
-    "https://cdn.discordapp.com/attachments/611380148431749151/627306724940054541/RHYTHM_of_your_HEART.rdzip",
-    # know you - lugi
-    "https://cdn.discordapp.com/attachments/611380148431749151/617578993880793093/Andrew_Huang_-_Know_You.rdzip",
-    # elgyem - deus
-    "https://cdn.discordapp.com/attachments/611380148431749151/627853725817372712/indigo2_-_Elgyem_Arrange.rdzip",
-    # pavlova - firecat
-    "https://cdn.discordapp.com/attachments/611380148431749151/618574287397453854/Jeff_van_Dyck_-_Pavlova.rdzip",
-    # colors - auth
 
-    # fungal funk - plaster, infectiousstepocity
-    "https://cdn.discordapp.com/attachments/611380148431749151/672803592482062356/fungal.rdzip",
-    # plastic nature - lugi
-    "https://cdn.discordapp.com/attachments/611380148431749151/617577731063808012/Andrew_Huang_-_Plastic_Nature.rdzip",
-    # akane-chan - emdyion, xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/685429455757639681/GYARI_-_Akane-chan_Will_Listen_to_Whatever_You_Say.rdzip",
-    # glome - fancybread
-    "https://cdn.discordapp.com/attachments/611380148431749151/654580455122927656/Creo_-_Glome.rdzip",
-    # solo - xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/625087275356913664/Clean_Bandit_ft._Demi_Lovato_-_solo.rdzip",
-  ]
-# challenging levels in general
-- take: 2
-  levels: [
-    # how to tame lions - auburnsummer
-    "https://cdn.discordapp.com/attachments/611380148431749151/704888424150335528/Washington_-_How_To_Tame_Lions.rdzip",
-    # candy cane lane - xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/625087958461972480/Sia_-_Candy_Cane_Lane.rdzip",
-    # hysteria - notdonte
-    "https://cdn.discordapp.com/attachments/611380148431749151/617563871808585761/Muse_-_Hysteria.rdzip",
-    # instant heaven - auth
-
-    # summer has come - satellite
-    "https://cdn.discordapp.com/attachments/611380148431749151/631975472888152074/adustam_-_Summer_has_come.rdzip",
-    # groundhog - noonhead
-    "https://cdn.discordapp.com/attachments/611380148431749151/665335967653167104/NOISIA_Scratch_Perverts_-_Groundhog_Beat_Juggle.rdzip",
-    # 514 - void (revengeance ver.)
-    "https://cdn.discordapp.com/attachments/611380148431749151/691419010830696448/maritumix_-_514_Revengeance.rdzip",
-    # p-qoq - dps2004, zisos, xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/688388022747791402/owltree_-_P-qoq.rdzip",
-    # video killed the radio star - nocallia
-    "https://cdn.discordapp.com/attachments/611380148431749151/678100744578269193/Pomplamoose_-_Video_Killed_the_Radio_Star.rdzip",
-    # one shot two shot - vincentw, xeno (revengeance ver.)
-    "https://cdn.discordapp.com/attachments/611380148431749151/691418426669006948/BoA_-_One_Shot_Two_Shot.rdzip"
-  ]
-# gimmick levels
-- take: 2
-  levels: [
-    # g and tonic - auburnsummer
-    "https://cdn.discordapp.com/attachments/611380148431749151/621537169890344980/Ladybug_-_G_and_Tonic.rdzip",
-    # ayakashi - noonhead
-    "https://cdn.discordapp.com/attachments/611380148431749151/633118772315553809/Hommarju_-_AYAKASHI.rdzip",
-    # heartbeat repeat - afterglow
-    "https://cdn.discordapp.com/attachments/611380148431749151/627306342230523914/Heartbeat_Repeat_-_Palpitations.rdzip",
-    # storage box - kusane
-    "https://cdn.discordapp.com/attachments/611380148431749151/617568545093713930/Senna_-_Storage_Box.rdzip",
-    # first steps - lugi, adipem
-    "https://cdn.discordapp.com/attachments/611380148431749151/651950617769803776/Lena_Raine_-_First_Steps.rdzip",
-    # ADOTAT - firecatfg
-    "https://cdn.discordapp.com/attachments/611380148431749151/659513702093160498/Tsunku_-_ADOTAT.rdzip",
-    # funk shuffle - miner, firecatfg
-    "https://cdn.discordapp.com/attachments/611380148431749151/626229457111482389/Funk_Shuffle.rdzip",
-    # beat distinguisher - xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/625085947897446440/Xeno_-_Beat_Distinguisher.rdzip",
-    # love snow really magic - vincent
-    "https://cdn.discordapp.com/attachments/611380148431749151/650443339916902400/Mitchie_M_feat._-_.rdzip",
-    # cadence of hyrule 1-1 - afterglow
-    "https://cdn.discordapp.com/attachments/611380148431749151/627306290892242964/Cadence_of_Hyrule_-_1-1_Combat.rdzip",
-    # momotaro - cv35w
-    "https://cdn.discordapp.com/attachments/611380148431749151/658102498829139988/Momotarov2.rdzip"
-  ]
-# ULTIMATE CHALLENGE
+# easy "boss"
 - take: 1
   levels: [
-    # le perv - notdonte et. al
-    "https://cdn.discordapp.com/attachments/611380148431749151/617560420202577940/Carpenter_Brut_-_Le_Perv_Community_Remix.rdzip",
-    # square - kneeckoh
-    "https://cdn.discordapp.com/attachments/611380148431749151/644361060337451048/Various_-_Square.rdzip",
-    # zen zen zense - thefinals
-    "https://cdn.discordapp.com/attachments/611380148431749151/678119176174436352/RADWIMPS_-_Zen_Zen_Zense.rdzip",
-    # explorers - xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/625088492002738219/Hinkik_-_Explorers.rdzip",
-    # run sally run - dnh, some j name, xeno
-    "https://cdn.discordapp.com/attachments/611380148431749151/691418767519121518/Carpenter_Brut_-_Run_Sally_Run.rdzip",
-    # bust this bust that (farmer corp) - morphious
-    "https://cdn.discordapp.com/attachments/343841090073395204/644214025554755594/Farmer_Corp.rdzip",
-    # superhero jagganath - auburnsummer
-    "https://cdn.discordapp.com/attachments/611380148431749151/668423781823414282/Diablo_Swing_Orchestra_-_Superhero_Jagganath.rdzip",
-    # arctic oscillation - dnh, sprinklez, xeno, some j name
-    "https://cdn.discordapp.com/attachments/611380148431749151/691419711975587881/Chris_Christodoulou_-_Arctic_Oscillation.rdzip"
+      "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/627983257987973140/Spaze_-_Believe.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/705904688427434034/Charlie_Puth_-_Attention_Pentatonix_mix.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/705753617868652564/Hinkik_-_Time_Leaper.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/664936681950019593/ANIMA_-The_Firev5.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/627306342230523914/Heartbeat_Repeat_-_Palpitations.rdzip"
+  ]
+
+# medium
+- take: 3
+  levels: [
+      "https://cdn.discordapp.com/attachments/611380148431749151/713664756476674068/mel_rachie_English_cover_-_Goodbye_Ms._Flower_Thief.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/617578993880793093/Andrew_Huang_-_Know_You.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/672803592482062356/fungal.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/627336716977569822/Muse_-_Dead_Inside.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/678100744578269193/Pomplamoose_-_Video_Killed_the_Radio_Star.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/617569588116324352/2_Mello_-_Mirror_Temple_Mirror_Magic_Mix.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/684180709132468248/Andy_Grammer_-_Spotlight.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/627306724940054541/RHYTHM_of_your_HEART.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/719184990595973231/Bossfight_-_Elevatia.rdzip"
+      - take: 2
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip"
+        ]
+  ]
+
+# medium "boss"
+- take: 1
+  levels: [
+      "https://cdn.discordapp.com/attachments/611380148431749151/654580455122927656/Creo_-_Glome.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/691418426669006948/BoA_-_One_Shot_Two_Shot.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/717072216897880114/DDRKirbyISQ_-_Solar_Beam.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/705580225714716682/ARM_IOSYS_-_Streak.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/651616509382230051/Special_Delivery.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/685205562564149266/Destroid_-_Annihilate.rdzip"
+      - take: 3
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/658400293116969021/Metronomic_Tachycardia_Tutorial.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip"
+        ]
+  ]
+
+# hard
+- take: 3
+  levels: [
+      "https://cdn.discordapp.com/attachments/611380148431749151/705578150666567741/SugarFinal.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/652936403939754034/American_Boy_Beat_Juggle.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/650443339916902400/Mitchie_M_feat._-_.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/713665077869543454/PinocchioP_-_YOZURINA.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/651896656983490560/FLOWER_REDALiCE_Remix.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/685233311198871579/Lena_Raine_arr._branflakes_-_Resurrections.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/717079575397662770/Washington_-_How_to_Tame_Lions.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/684292788237500427/Muse_-_Muscle_Museum_Revengance.rdzip"
+      - take: 2
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/688388022747791402/owltree_-_P-qoq.rdzip"
+        ]
+  ]
+
+# hard "boss"
+- take: 1
+  levels: [
+      "https://cdn.discordapp.com/attachments/611380148431749151/658102498829139988/Momotarov2.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/706634667130093588/Twenty_One_Pilots_-_Level_Of_Concern.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/685267148616368128/Pascal_Michael_Stiefel_-_Rush_Hour.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/685429455757639681/GYARI_-_Akane-chan_Will_Listen_to_Whatever_You_Say.rdzip"
+      - take: 2
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/690941671449296916/NeLiME_-_CODE_NAME__GAMMA.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/713665733304909885/Diana_Boncheva_feat._BanYa_-_Beethoven_Virus.rdzip"
+        ]
+      - take: 2
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/617826740378533908/ALRT_-_My_Level.rdzip"
+        ]
+      - take: 2
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/684177268657881120/Xeno_-_ground.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/684233738430709790/Korpiklaani_-_Vodka.rdzip"
+        ]
+  ]
+
+# challenge / spectacle
+- take: 1
+  levels: [
+      "https://cdn.discordapp.com/attachments/611380148431749151/644361060337451048/Various_-_Square.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/678119176174436352/RADWIMPS_-_Zen_Zen_Zense.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/691419711975587881/Chris_Christodoulou_-_Arctic_Oscillation.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/668423781823414282/Diablo_Swing_Orchestra_-_Superhero_Jagganath.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/678647381654372352/ALovelyNight.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/691418767519121518/Carpenter_Brut_-_Run_Sally_Run.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/617560420202577940/Carpenter_Brut_-_Le_Perv_Community_Remix.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/674350527097602058/witchs_slave_-_Disperagioia.rdzip"
+      - take: 2
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/625088603432943648/Xeno_-_ExploTuto.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/625088492002738219/Hinkik_-_Explorers.rdzip"
+        ]
+      - take: 2
+        levels: [
+          "https://cdn.discordapp.com/attachments/611380148431749151/633119738494713890/Xeno_-_ayaka.rdzip",
+          "https://cdn.discordapp.com/attachments/611380148431749151/633118772315553809/Hommarju_-_AYAKASHI.rdzip"
+        ]
   ]
