@@ -1,12 +1,11 @@
 - take: 9
-  levels: [
-    "https://cdn.discordapp.com/attachments/611380148431749151/617562654189551616/Cerulean_-_Secure.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/643554980078419988/Pascal_Michael_Stiefel_-_Clocktowers_Beneath_The_Sea.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/617562302161616916/Cerulean_-_Dirty_Days_Spotless_Nights.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/693642476258459719/Andrew_Huang_Rob_Scallon_-_TINES_new.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/617577235196674067/dull_machine_-_september.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685673545132408833/City_Girl_-_Ji-Euns_Sunset.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684202248867282963/1f1n1ty_-_Veva.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/635960379528445993/Louie_Zong_-_Blackberry_Jam.rdzip",
-  ]
+  levels:
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617562654189551616/Cerulean_-_Secure.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/643554980078419988/Pascal_Michael_Stiefel_-_Clocktowers_Beneath_The_Sea.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617562302161616916/Cerulean_-_Dirty_Days_Spotless_Nights.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/693642476258459719/Andrew_Huang_Rob_Scallon_-_TINES_new.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617577235196674067/dull_machine_-_september.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685673545132408833/City_Girl_-_Ji-Euns_Sunset.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684202248867282963/1f1n1ty_-_Veva.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/635960379528445993/Louie_Zong_-_Blackberry_Jam.rdzip"

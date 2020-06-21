@@ -1,46 +1,45 @@
 - take: 99
-  levels: [
-    "https://cdn.discordapp.com/attachments/611380148431749151/684176292014587931/Emdyion_Xeno_-_RDSRT2_Opening_Credits.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684177866971545690/They_Might_Be_Giants_-_Cloissonne.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/713664756476674068/mel_rachie_English_cover_-_Goodbye_Ms._Flower_Thief.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685429455757639681/GYARI_-_Akane-chan_Will_Listen_to_Whatever_You_Say.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/690939858130042970/Sakuzyo_-_Altale.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684225049590366268/Fahrenheit.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685727039587745792/Teikyou_-_Deadly_Slot_Game.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/686810270210981898/Nate_Harrell_-_Jazz_Candy_VIP.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684177268657881120/Xeno_-_ground.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685266490211172417/C418_-_Chirp.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684180709132468248/Andy_Grammer_-_Spotlight.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685205562564149266/Destroid_-_Annihilate.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/706559518032789564/Hiroki_Kikuta_-_The_Oracle.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685267148616368128/Pascal_Michael_Stiefel_-_Rush_Hour.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684226642155012136/Frums_-_Pictured_As_Perfect.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/697072049591549981/zts_-_airs_gravity.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684202248867282963/1f1n1ty_-_Veva.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684626889457139732/PinocchioP_-_Love_for_Love_by_Love_of_Love.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684292631404085302/Crusher-P_-_Again.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685233311198871579/Lena_Raine_arr._branflakes_-_Resurrections.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/713665077869543454/PinocchioP_-_YOZURINA.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684182982793363512/Laura_Shigihara_-_Graze_The_Roof.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/690630556614000650/Iriss_Frantzz_-_Turndup.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684233738430709790/Korpiklaani_-_Vodka.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684183321424560130/Light_Club_-_Fahkeet.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/688243768968609837/Panic_At_The_Disco_-_High_Hopes.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/690941671449296916/NeLiME_-_CODE_NAME__GAMMA.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/713665733304909885/Diana_Boncheva_feat._BanYa_-_Beethoven_Virus.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/691417563283849317/Emdyion_Xeno_-_RDSRT2_Dramatic_Trailer_Full_Scene.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/691418426669006948/BoA_-_One_Shot_Two_Shot.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/691418767519121518/Carpenter_Brut_-_Run_Sally_Run.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684226052956094474/kamome_sano_-_Choux_a_la_creme.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/691418902110011462/GHOST_-_The_Distortionist.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/691419010830696448/maritumix_-_514_Revengeance.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/688388022747791402/owltree_-_P-qoq.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684292788237500427/Muse_-_Muscle_Museum_Revengance.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/685267832098914304/DM_DOKURO_-_1NF3StAt0N.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/690943702075703386/sky_delta_-_Kreuz.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684627033736871960/JIN_-_Outer_Science.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/691419711975587881/Chris_Christodoulou_-_Arctic_Oscillation.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/684218585757122564/Anonymous_-_A_Sardine_grows_from_the_Soil.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/713680876877381642/Various_-_Rodneys_Rhythm_Rounds.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/713669524024721488/-_Initiation_-aggressive_solicitation_mix-.rdzip"
-  ]
+  levels:
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684176292014587931/Emdyion_Xeno_-_RDSRT2_Opening_Credits.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684177866971545690/They_Might_Be_Giants_-_Cloissonne.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/713664756476674068/mel_rachie_English_cover_-_Goodbye_Ms._Flower_Thief.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685429455757639681/GYARI_-_Akane-chan_Will_Listen_to_Whatever_You_Say.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/690939858130042970/Sakuzyo_-_Altale.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684225049590366268/Fahrenheit.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685727039587745792/Teikyou_-_Deadly_Slot_Game.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/686810270210981898/Nate_Harrell_-_Jazz_Candy_VIP.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684177268657881120/Xeno_-_ground.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685266490211172417/C418_-_Chirp.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684180709132468248/Andy_Grammer_-_Spotlight.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685205562564149266/Destroid_-_Annihilate.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/706559518032789564/Hiroki_Kikuta_-_The_Oracle.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685267148616368128/Pascal_Michael_Stiefel_-_Rush_Hour.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684226642155012136/Frums_-_Pictured_As_Perfect.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/697072049591549981/zts_-_airs_gravity.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684202248867282963/1f1n1ty_-_Veva.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684626889457139732/PinocchioP_-_Love_for_Love_by_Love_of_Love.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684292631404085302/Crusher-P_-_Again.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685233311198871579/Lena_Raine_arr._branflakes_-_Resurrections.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/713665077869543454/PinocchioP_-_YOZURINA.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684182982793363512/Laura_Shigihara_-_Graze_The_Roof.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/690630556614000650/Iriss_Frantzz_-_Turndup.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684233738430709790/Korpiklaani_-_Vodka.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684183321424560130/Light_Club_-_Fahkeet.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/688243768968609837/Panic_At_The_Disco_-_High_Hopes.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/690941671449296916/NeLiME_-_CODE_NAME__GAMMA.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/713665733304909885/Diana_Boncheva_feat._BanYa_-_Beethoven_Virus.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/691417563283849317/Emdyion_Xeno_-_RDSRT2_Dramatic_Trailer_Full_Scene.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/691418426669006948/BoA_-_One_Shot_Two_Shot.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/691418767519121518/Carpenter_Brut_-_Run_Sally_Run.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684226052956094474/kamome_sano_-_Choux_a_la_creme.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/691418902110011462/GHOST_-_The_Distortionist.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/691419010830696448/maritumix_-_514_Revengeance.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/688388022747791402/owltree_-_P-qoq.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684292788237500427/Muse_-_Muscle_Museum_Revengance.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685267832098914304/DM_DOKURO_-_1NF3StAt0N.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/690943702075703386/sky_delta_-_Kreuz.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684627033736871960/JIN_-_Outer_Science.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/691419711975587881/Chris_Christodoulou_-_Arctic_Oscillation.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/684218585757122564/Anonymous_-_A_Sardine_grows_from_the_Soil.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/713680876877381642/Various_-_Rodneys_Rhythm_Rounds.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/713669524024721488/-_Initiation_-aggressive_solicitation_mix-.rdzip"
