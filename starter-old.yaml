@@ -24,7 +24,7 @@
   ]
 
 # medium
-- take: 3
+- take: 2
   levels:
       - take: 3
         levels: [
@@ -64,7 +64,7 @@
         ]
 
 # hard
-- take: 3
+- take: 2
   levels:
       - take: 3
         levels: [
