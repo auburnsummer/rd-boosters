@@ -25,7 +25,7 @@
 
 # medium
 - take: 3
-  levels: [
+  levels:
       - take: 3
         levels: [
           "https://cdn.discordapp.com/attachments/611380148431749151/713664756476674068/mel_rachie_English_cover_-_Goodbye_Ms._Flower_Thief.rdzip",
@@ -43,11 +43,10 @@
           "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
           "https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip"
         ]
-  ]
 
 # medium "boss"
 - take: 1
-  levels: [
+  levels:
       - take: 1
         levels: [
           "https://cdn.discordapp.com/attachments/611380148431749151/654580455122927656/Creo_-_Glome.rdzip",
@@ -63,11 +62,10 @@
           "https://cdn.discordapp.com/attachments/611380148431749151/658400293116969021/Metronomic_Tachycardia_Tutorial.rdzip",
           "https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip"
         ]
-  ]
 
 # hard
 - take: 3
-  levels: [
+  levels:
       - take: 3
         levels: [
           "https://cdn.discordapp.com/attachments/611380148431749151/705578150666567741/SugarFinal.rdzip",
@@ -84,11 +82,10 @@
           "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
           "https://cdn.discordapp.com/attachments/611380148431749151/688388022747791402/owltree_-_P-qoq.rdzip"
         ]
-  ]
-
+ 
 # hard "boss"
 - take: 1
-  levels: [
+  levels:
       - take: 1
         levels: [
           "https://cdn.discordapp.com/attachments/611380148431749151/658102498829139988/Momotarov2.rdzip",
@@ -111,11 +108,10 @@
           "https://cdn.discordapp.com/attachments/611380148431749151/684177268657881120/Xeno_-_ground.rdzip",
           "https://cdn.discordapp.com/attachments/611380148431749151/684233738430709790/Korpiklaani_-_Vodka.rdzip"
         ]
-  ]
 
 # challenge / spectacle
 - take: 1
-  levels: [
+  levels:
       - take: 1
       levels: [
           "https://cdn.discordapp.com/attachments/611380148431749151/644361060337451048/Various_-_Square.rdzip",
@@ -137,4 +133,3 @@
           "https://cdn.discordapp.com/attachments/611380148431749151/633119738494713890/Xeno_-_ayaka.rdzip",
           "https://cdn.discordapp.com/attachments/611380148431749151/633118772315553809/Hommarju_-_AYAKASHI.rdzip"
         ]
-  ]
