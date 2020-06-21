@@ -13,16 +13,16 @@
   ]
 
 # easy "boss"
-# - take: 1
-#   levels: [
-#       "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
-#       "https://cdn.discordapp.com/attachments/611380148431749151/627983257987973140/Spaze_-_Believe.rdzip",
-#       "https://cdn.discordapp.com/attachments/611380148431749151/705904688427434034/Charlie_Puth_-_Attention_Pentatonix_mix.rdzip",
-#       "https://cdn.discordapp.com/attachments/611380148431749151/705753617868652564/Hinkik_-_Time_Leaper.rdzip",
-#       "https://cdn.discordapp.com/attachments/611380148431749151/664936681950019593/ANIMA_-The_Firev5.rdzip",
-#       "https://cdn.discordapp.com/attachments/611380148431749151/627306342230523914/Heartbeat_Repeat_-_Palpitations.rdzip"
-#   ]
-#
+- take: 1
+  levels: [
+      "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/627983257987973140/Spaze_-_Believe.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/705904688427434034/Charlie_Puth_-_Attention_Pentatonix_mix.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/705753617868652564/Hinkik_-_Time_Leaper.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/664936681950019593/ANIMA_-The_Firev5.rdzip",
+      "https://cdn.discordapp.com/attachments/611380148431749151/627306342230523914/Heartbeat_Repeat_-_Palpitations.rdzip"
+  ]
+
 # # medium
 # - take: 3
 #   levels:
