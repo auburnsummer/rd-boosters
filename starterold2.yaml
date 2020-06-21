@@ -49,9 +49,9 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/685205562564149266/Destroid_-_Annihilate.rdzip"
     - take: 3
       levels:
-        - https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip
-        - https://cdn.discordapp.com/attachments/611380148431749151/658400293116969021/Metronomic_Tachycardia_Tutorial.rdzip
-        - https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip
+        - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/658400293116969021/Metronomic_Tachycardia_Tutorial.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/705108398232043640/LemKuuja_-_Ouais_Ouais.rdzip"
 
 # hard
 - take: 3
@@ -72,10 +72,13 @@
 # hard "boss"
 - take: 1
   levels:
-    - "https://cdn.discordapp.com/attachments/611380148431749151/658102498829139988/Momotarov2.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/706634667130093588/Twenty_One_Pilots_-_Level_Of_Concern.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/685267148616368128/Pascal_Michael_Stiefel_-_Rush_Hour.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/685429455757639681/GYARI_-_Akane-chan_Will_Listen_to_Whatever_You_Say.rdzip"
+    - take: 2
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/658102498829139988/Momotarov2.rdzip"
     - take: 2
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/690941671449296916/NeLiME_-_CODE_NAME__GAMMA.rdzip"
