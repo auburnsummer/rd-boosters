@@ -1,27 +1,27 @@
 # easy
 - take: 3
   levels: [
-      "https://cdn.discordapp.com/attachments/611380148431749151/644360805491671041/Hatsune_Miku_-_Leekspin.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/635960379528445993/Louie_Zong_-_Blackberry_Jam.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/693642476258459719/Andrew_Huang_Rob_Scallon_-_TINES_new.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/617576301007732746/Tsunku_-_Karate_Man.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/659846412967608323/Kazumi_Totaka_-_Creative_Exercise.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/651950617769803776/Lena_Raine_-_First_Steps.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/709035281847681075/Patric_Catani_-_Laidback_Thrills.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/684177866971545690/They_Might_Be_Giants_-_Cloissonne.rdzip"
-  ]
+    "https://cdn.discordapp.com/attachments/611380148431749151/644360805491671041/Hatsune_Miku_-_Leekspin.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/635960379528445993/Louie_Zong_-_Blackberry_Jam.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/693642476258459719/Andrew_Huang_Rob_Scallon_-_TINES_new.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/617576301007732746/Tsunku_-_Karate_Man.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/659846412967608323/Kazumi_Totaka_-_Creative_Exercise.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/651950617769803776/Lena_Raine_-_First_Steps.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/709035281847681075/Patric_Catani_-_Laidback_Thrills.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/684177866971545690/They_Might_Be_Giants_-_Cloissonne.rdzip"
+    ]
 
 # easy "boss"
 - take: 1
   levels: [
-      "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/627983257987973140/Spaze_-_Believe.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/705904688427434034/Charlie_Puth_-_Attention_Pentatonix_mix.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/705753617868652564/Hinkik_-_Time_Leaper.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/664936681950019593/ANIMA_-The_Firev5.rdzip",
-      "https://cdn.discordapp.com/attachments/611380148431749151/627306342230523914/Heartbeat_Repeat_-_Palpitations.rdzip"
-  ]
+    "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/627983257987973140/Spaze_-_Believe.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/705904688427434034/Charlie_Puth_-_Attention_Pentatonix_mix.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/705753617868652564/Hinkik_-_Time_Leaper.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/664936681950019593/ANIMA_-The_Firev5.rdzip",
+    "https://cdn.discordapp.com/attachments/611380148431749151/627306342230523914/Heartbeat_Repeat_-_Palpitations.rdzip"
+    ]
 
 # # medium
 # - take: 3
