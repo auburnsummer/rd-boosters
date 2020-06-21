@@ -1,33 +1,30 @@
-- take: 2
+- take: 3
   levels:
+    # ayaka + ayakashi
     - take: 2
       levels: [
-        "https://cdn.discordapp.com/attachments/611380148431749151/713229132628099112/an0va_-_Christmas_Time_Is_Here.rdzip",
-        "https://cdn.discordapp.com/attachments/611380148431749151/652573370860175381/sen-pi_-_Mischief_Waltz.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/633119738494713890/Xeno_-_ayaka.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/633118772315553809/Hommarju_-_AYAKASHI.rdzip",
       ]
 
-    - take: 1
+    # metronomic tachy
+    - take: 2
       levels: [
-        "https://cdn.discordapp.com/attachments/611380148431749151/635960217007554586/Christophe_Heral_-_Mariachi_Madness.rdzip",
-        "https://cdn.discordapp.com/attachments/611380148431749151/617566922526949376/Grant_Kirkhope_-_Hero_Klungo_Sssavesss_Teh_World.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/658400293116969021/Metronomic_Tachycardia_Tutorial.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/723943782776569896/Elysium_-_Pixel_Plantation.rdzip",
         ]
 
-    - take: 1
+    # syncopation + mylevel
+    - take: 2
       levels: [
-        "https://cdn.discordapp.com/attachments/611380148431749151/723912774710722680/Higedriver_-_Ukigumo.rdzip",
-        "https://cdn.discordapp.com/attachments/611380148431749151/659020896664813568/Chipzel_-_tokyo_Skies.rdzip",
-        "https://cdn.discordapp.com/attachments/611380148431749151/663299326851940352/FancyBread_-_Grape_Jelly_Canine.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/617826740378533908/ALRT_-_My_Level.rdzip",
       ]
+
+    # syncopation + theme of really cool bird
 
     - take: 2
       levels: [
-        "https://cdn.discordapp.com/attachments/611380148431749151/626229457111482389/Funk_Shuffle.rdzip",
-        "https://cdn.discordapp.com/attachments/611380148431749151/661724058156662805/Sabrepulse_-_Termination_Shock.rdzip",
-      ]
-
-
-    - take: 1
-      levels: [
-            "https://cdn.discordapp.com/attachments/611380148431749151/643943202809839646/Chroma_-_I.rdzip",
-            "https://cdn.discordapp.com/attachments/611380148431749151/652573644274270217/Xeno_-_Madness_Waltz.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip",
+        "https://cdn.discordapp.com/attachments/611380148431749151/705572079906455612/Bobacupcake_-_theme_of_really_cool_bird.rdzip",
       ]
