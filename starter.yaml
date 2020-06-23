@@ -10,6 +10,8 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/651950617769803776/Lena_Raine_-_First_Steps.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/709035281847681075/Patric_Catani_-_Laidback_Thrills.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/684177866971545690/They_Might_Be_Giants_-_Cloissonne.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/685266490211172417/C418_-_Chirp.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/667506228951515137/Half_an_Orange_-_Buzz_Lightyear_WRLD_Remix.rdzip"
 
 # easy "boss"
 - take: 1
@@ -20,6 +22,9 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/705753617868652564/Hinkik_-_Time_Leaper.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/664936681950019593/ANIMA_-The_Firev5.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/627306342230523914/Heartbeat_Repeat_-_Palpitations.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/716989281645756426/Kingbastard_-_Dedrater.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/627982606322892800/Big_Giant_Circles_-_Vindicate_Me_Instrumental.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/664193119088279592/DJ_Shadow_-_Midnight_in_a_Perfect_World_Beat_Juggle.rdzip"
 
 # medium
 - take: 3
@@ -33,6 +38,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/684180709132468248/Andy_Grammer_-_Spotlight.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/627306724940054541/RHYTHM_of_your_HEART.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/719184990595973231/Bossfight_-_Elevatia.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/626229457111482389/Funk_Shuffle.rdzip"
     - take: 2
       levels:
        - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
@@ -46,6 +52,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/705580225714716682/ARM_IOSYS_-_Streak.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/651616509382230051/Special_Delivery.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/685205562564149266/Destroid_-_Annihilate.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705859732015153152/Danny_Baranowsky_FamilyJules7x_-_Metalmancy.rdzip"
     - take: 3
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
@@ -55,6 +62,10 @@
       levels:
        - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
        - "https://cdn.discordapp.com/attachments/611380148431749151/691418426669006948/BoA_-_One_Shot_Two_Shot.rdzip"
+    - take: 2
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/658400293116969021/Metronomic_Tachycardia_Tutorial.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/656863310343438354/Elysium_-_Pixel_Plantation.rdzip"
 # hard
 - take: 3
   levels:
@@ -66,10 +77,15 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/685233311198871579/Lena_Raine_arr._branflakes_-_Resurrections.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/717079575397662770/Washington_-_How_to_Tame_Lions.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/684292788237500427/Muse_-_Muscle_Museum_Revengance.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717075902630199366/Noisemaker_-_Repent_Your_Sins.rdzip"
     - take: 2
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/688388022747791402/owltree_-_P-qoq.rdzip"
+    - take: 2
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/721749960978202664/Chris_Kirkpatrick_Guy_Moon_-_My_Shiny_Teeth_and_Me.rdzip"
 
 # hard "boss"
 - take: 1
@@ -77,10 +93,16 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/706634667130093588/Twenty_One_Pilots_-_Level_Of_Concern.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/685267148616368128/Pascal_Michael_Stiefel_-_Rush_Hour.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/685429455757639681/GYARI_-_Akane-chan_Will_Listen_to_Whatever_You_Say.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/651616190954995742/Gost_Dizkodeath_-_Orchid_Gost_Remix.rdzip"
+    - take: 3
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/724751548659269642/CV35W_-_3peat_Tutorial.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/658102498829139988/Momotarov2.rdzip"
     - take: 2
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/617590539696603137/Auth_-_Syncopation_tutorial.rdzip"
-        - "https://cdn.discordapp.com/attachments/611380148431749151/658102498829139988/Momotarov2.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/691418902110011462/GHOST_-_The_Distortionist.rdzip"
     - take: 2
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/690941671449296916/NeLiME_-_CODE_NAME__GAMMA.rdzip"
@@ -105,6 +127,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/691418767519121518/Carpenter_Brut_-_Run_Sally_Run.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/617560420202577940/Carpenter_Brut_-_Le_Perv_Community_Remix.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/674350527097602058/witchs_slave_-_Disperagioia.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/689964997308055629/Detective_Orange_-_I_Like_Beatsv3.rdzip"
     - take: 2
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/625088603432943648/Xeno_-_ExploTuto.rdzip"
