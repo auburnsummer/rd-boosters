@@ -44,3 +44,39 @@
 - title: "Melodic Memes"
   description: "Quality not guaranteed."
   file: "meme"
+
+- title: "Competition archives: Storyteller"
+  description: "Entries to the Storyteller competition"
+  file: "storyteller"
+
+- title: "Competition archives: Medley"
+  description: "Entries to the Medley competition"
+  file: "medley"
+
+- title: "Competition archives: Creative Commons"
+  description: "Entries to the Creative Commons competition"
+  file: "creativecommons"
+
+- title: "Competition archives: Winter's Chill"
+  description: "Entries to the Winter's Chill competition"
+  file: "winterschill"
+
+- title: "Competition archives: Twist"
+  description: "Entries to the Twist competition"
+  file: "twist"
+
+- title: "Competition archives: Smol"
+  description: "Entries to the Smol competition"
+  file: "smol"
+
+- title: "Competition archives: Creepypasta"
+  description: "Entries to the Creepypasta competition"
+  file: "creepypasta"
+
+- title: "Competition archives: Hollywood"
+  description: "Entries to the Hollywood competition"
+  file: "hollywood"
+
+- title: "Competition archives: Smol 2"
+  description: "Entries to the Smol 2 competition"
+  file: "smol2"
