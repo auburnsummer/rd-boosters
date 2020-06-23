@@ -72,6 +72,7 @@
 - title: "Competition archives: Creepypasta"
   description: "Entries to the Creepypasta competition"
   file: "creepypasta"
+  dynamic: true
 
 - title: "Competition archives: Hollywood"
   description: "Entries to the Hollywood competition"
