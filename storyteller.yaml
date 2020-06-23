@@ -1,9 +1,8 @@
 - take: 30
-  levels: [
-    "https://cdn.discordapp.com/attachments/611380148431749151/668423781823414282/Diablo_Swing_Orchestra_-_Superhero_Jagganath.rdzip",
-    # rd the rpg
-    # water wall
-    # from the closed world
-    "https://cdn.discordapp.com/attachments/611380148431749151/627306250601758747/The_Boys_Are_Back_in_Town_to_kill_you.rdzip"
-    # I Like You, I Love You
-  ]
+  levels:
+    - "https://cdn.discordapp.com/attachments/611380148431749151/668423781823414282/Diablo_Swing_Orchestra_-_Superhero_Jagganath.rdzip"
+    - # rd the rpg
+    - # water wall
+    - # from the closed world
+    - "https://cdn.discordapp.com/attachments/611380148431749151/627306250601758747/The_Boys_Are_Back_in_Town_to_kill_you.rdzip"
+    - # I Like You, I Love You

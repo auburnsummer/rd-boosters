@@ -1,17 +1,16 @@
 - take: 30
-  levels: [
-    "https://cdn.discordapp.com/attachments/611380148431749151/678647381654372352/ALovelyNight.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/689964997308055629/Detective_Orange_-_I_Like_Beatsv3.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/687924629066481681/SIDE_A_-_Introduction_-_Cabinet_Man.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/688151527504085130/SIDE_B_-_Lemon_Demon_-_Cabinet_Man.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/678100744578269193/Pomplamoose_-_Video_Killed_the_Radio_Star.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/678103295490916363/Modest_Mouse_-_Sugar_Boats.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/678119176174436352/RADWIMPS_-_Zen_Zen_Zense.rdzip",
-    # Trainwreck of Electro Swing
-    "https://cdn.discordapp.com/attachments/611380148431749151/705811142475251763/nanaHitsuji.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/678122466287026186/Nickelback_-_Rockstar.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/679202265667600397/Tee_Lopes_-_Lights_Camera_Action.rdzip",
-    # pump it
-    "https://cdn.discordapp.com/attachments/611380148431749151/679452800328925203/Pegboard_Nerds_-_Try_This.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/678229013487157249/THX_-_THX_Deep_Note.rdzip"
-  ]
+  levels:
+    - "https://cdn.discordapp.com/attachments/611380148431749151/678647381654372352/ALovelyNight.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/689964997308055629/Detective_Orange_-_I_Like_Beatsv3.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/687924629066481681/SIDE_A_-_Introduction_-_Cabinet_Man.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/688151527504085130/SIDE_B_-_Lemon_Demon_-_Cabinet_Man.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/678100744578269193/Pomplamoose_-_Video_Killed_the_Radio_Star.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/678103295490916363/Modest_Mouse_-_Sugar_Boats.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/678119176174436352/RADWIMPS_-_Zen_Zen_Zense.rdzip"
+    - # Trainwreck of Electro Swing
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705811142475251763/nanaHitsuji.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/678122466287026186/Nickelback_-_Rockstar.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/679202265667600397/Tee_Lopes_-_Lights_Camera_Action.rdzip"
+    - # pump it
+    - "https://cdn.discordapp.com/attachments/611380148431749151/679452800328925203/Pegboard_Nerds_-_Try_This.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/678229013487157249/THX_-_THX_Deep_Note.rdzip"

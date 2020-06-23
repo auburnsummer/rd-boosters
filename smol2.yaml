@@ -1,36 +1,35 @@
 - take: 40
-  levels: [
-    "https://cdn.discordapp.com/attachments/611380148431749151/705572298006200390/DECO_27_feat_Hatsune_Miku_-_Otome_Dissection_short_ver.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705578150666567741/SugarFinal.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705580225714716682/ARM_IOSYS_-_Streak.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705578985945301082/JHAS_-_Talking_Sleeping_Waving_Waiting.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705859732015153152/Danny_Baranowsky_FamilyJules7x_-_Metalmancy.rdzip",
-    # the sea has returned
-    "https://cdn.discordapp.com/attachments/611380148431749151/706058789769707571/Anamanaguchi_short_ver._-_Miku_post_compo_release.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705572079906455612/Bobacupcake_-_theme_of_really_cool_bird.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705571597184008252/metal_crusher_smol2.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705564878408122398/Noisemaker_-_Grind_4_-_Day_7_.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705866306385346590/Patricia_Taxxon_-_Blorp.rdzip",
-    # time machine
-    "https://cdn.discordapp.com/attachments/611380148431749151/705892802206105721/Xeno_-_Zephyrr.rdzip",
-    # hold on
-    "https://cdn.discordapp.com/attachments/611380148431749151/705686066375557206/OK_Go_-_The_One_Moment.rdzip",
-    # memory
-    "https://cdn.discordapp.com/attachments/611380148431749151/705931654903890010/Lemon_Demon_-_Addie.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705595183403892787/Fevrier_-_Leap.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705570742280126565/Scissor_Sisters_-_I_Cant_Decide.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/707313000519958668/Shirobon_-_Regain_Control.rdzip",
-    # title theme
-    "https://cdn.discordapp.com/attachments/611380148431749151/705861049273942056/Samurai_Woman.rdzip",
-    # Fighting Hearts (stepswitcher)
-    "https://cdn.discordapp.com/attachments/611380148431749151/705575789042728991/Daniel_Olsen_-_Fighting_Hearts.rdzip",
-    # power of NEO
-    "https://cdn.discordapp.com/attachments/611380148431749151/705566483291570206/Mr._Sauceman_-_The_Death_That_I_Deservioli.rdzip",
-    # 36
-    # Speed Me Up
-    # Remix 2
-    # Make A Move
-    "https://cdn.discordapp.com/attachments/611380148431749151/705858172149039124/Yamajet_-__ver_1.1.rdzip",
-    # A World On Fire
-    "https://cdn.discordapp.com/attachments/611380148431749151/705722925390757978/Napalm_Death_-_You_Suffer.rdzip"
-  ]
+  levels:
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705572298006200390/DECO_27_feat_Hatsune_Miku_-_Otome_Dissection_short_ver.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705578150666567741/SugarFinal.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705580225714716682/ARM_IOSYS_-_Streak.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705578985945301082/JHAS_-_Talking_Sleeping_Waving_Waiting.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705859732015153152/Danny_Baranowsky_FamilyJules7x_-_Metalmancy.rdzip"
+    - # the sea has returned
+    - "https://cdn.discordapp.com/attachments/611380148431749151/706058789769707571/Anamanaguchi_short_ver._-_Miku_post_compo_release.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705572079906455612/Bobacupcake_-_theme_of_really_cool_bird.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705571597184008252/metal_crusher_smol2.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705564878408122398/Noisemaker_-_Grind_4_-_Day_7_.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705866306385346590/Patricia_Taxxon_-_Blorp.rdzip"
+    - # time machine
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705892802206105721/Xeno_-_Zephyrr.rdzip"
+    - # hold on
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705686066375557206/OK_Go_-_The_One_Moment.rdzip"
+    - # memory
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705931654903890010/Lemon_Demon_-_Addie.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705595183403892787/Fevrier_-_Leap.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705570742280126565/Scissor_Sisters_-_I_Cant_Decide.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/707313000519958668/Shirobon_-_Regain_Control.rdzip"
+    - # title theme
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705861049273942056/Samurai_Woman.rdzip"
+    - # Fighting Hearts (stepswitcher)
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705575789042728991/Daniel_Olsen_-_Fighting_Hearts.rdzip"
+    - # power of NEO
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705566483291570206/Mr._Sauceman_-_The_Death_That_I_Deservioli.rdzip"
+    - # 36
+    - # Speed Me Up
+    - # Remix 2
+    - # Make A Move
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705858172149039124/Yamajet_-__ver_1.1.rdzip"
+    - # A World On Fire
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705722925390757978/Napalm_Death_-_You_Suffer.rdzip"

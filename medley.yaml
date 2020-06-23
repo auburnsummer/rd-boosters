@@ -1,15 +1,14 @@
 - take: 30
-  levels: [
-    # doctor hexagon
-    # rhythm doctor final remix
-    "https://cdn.discordapp.com/attachments/611380148431749151/703190536516927598/Rhythm_Clusterfak.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/705905325026312192/Various_-_Classy_Medley.rdzip",
-    # in circles
-    # life reset
-    # feeling evil
-    "https://cdn.discordapp.com/attachments/611380148431749151/703361158152847400/A_Hat_in_Time_-_You_Are_All_Bad_Guys.rdzip",
-    # what are you doin
-    # steamed hams inc
-    "https://cdn.discordapp.com/attachments/611380148431749151/649795838091984909/Saint_Pepsi_-_Shaolin_Pineapple_Juniors.rdzip"
-    # bloody slam
-  ]
+  levels:
+    - # doctor hexagon
+    - # rhythm doctor final remix
+    - "https://cdn.discordapp.com/attachments/611380148431749151/703190536516927598/Rhythm_Clusterfak.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/705905325026312192/Various_-_Classy_Medley.rdzip"
+    - # in circles
+    - # life reset
+    - # feeling evil
+    - "https://cdn.discordapp.com/attachments/611380148431749151/703361158152847400/A_Hat_in_Time_-_You_Are_All_Bad_Guys.rdzip"
+    - # what are you doin
+    - # steamed hams inc
+    - "https://cdn.discordapp.com/attachments/611380148431749151/649795838091984909/Saint_Pepsi_-_Shaolin_Pineapple_Juniors.rdzip"
+    - # bloody slam

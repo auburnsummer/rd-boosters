@@ -1,25 +1,24 @@
 - take: 30
-  levels: [
-    # road to cannonballers
-    "https://cdn.discordapp.com/attachments/611380148431749151/627306290892242964/Cadence_of_Hyrule_-_1-1_Combat.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/627983361817968681/Step_-_Morocco.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/680144188251176960/Ladytron_-_Ghosts_Modwheelmood_Mix.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/625089016122834954/MARETU_-_.rdzip",
-    "https://cdn.discordapp.com/attachments/362784581344034816/685550743843111083/Stijin_van_Wakeren_-_Long_Way_From_the_Fairway.rdzip",
-    # gleeockenspiel
-    # hustle
-    # credits (NoranOmicron)
-    # RDRPG final boss battle
-    "https://cdn.discordapp.com/attachments/611380148431749151/620784301209944104/Up_in_Flames.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/617563584901152786/Danny_Baranowski_-_Minigame.rdzip",
-    # baby hotline
-    # Underground Hallow
-    # Cyaegha
-    # sublime intervention
-    "https://cdn.discordapp.com/attachments/611380148431749151/623930666819518492/Tomoya_Tomita_-_Tankbot.rdzip",
-    # a world of minor differences
-    "https://cdn.discordapp.com/attachments/611380148431749151/617566922526949376/Grant_Kirkhope_-_Hero_Klungo_Sssavesss_Teh_World.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/626659100322693129/Jakeneutron_-_Steven_Were_Falling.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/725092261301452831/nelward_-_Tribute_to_Hope_Depot.rdzip",
-    # Anomaly (extended edition)
-  ]
+  levels:
+    - # road to cannonballers
+    - "https://cdn.discordapp.com/attachments/611380148431749151/627306290892242964/Cadence_of_Hyrule_-_1-1_Combat.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/627983361817968681/Step_-_Morocco.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/680144188251176960/Ladytron_-_Ghosts_Modwheelmood_Mix.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/625089016122834954/MARETU_-_.rdzip"
+    - "https://cdn.discordapp.com/attachments/362784581344034816/685550743843111083/Stijin_van_Wakeren_-_Long_Way_From_the_Fairway.rdzip"
+    - # gleeockenspiel
+    - # hustle
+    - # credits (NoranOmicron)
+    - # RDRPG final boss battle
+    - "https://cdn.discordapp.com/attachments/611380148431749151/620784301209944104/Up_in_Flames.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617563584901152786/Danny_Baranowski_-_Minigame.rdzip"
+    - # baby hotline
+    - # Underground Hallow
+    - # Cyaegha
+    - # sublime intervention
+    - "https://cdn.discordapp.com/attachments/611380148431749151/623930666819518492/Tomoya_Tomita_-_Tankbot.rdzip"
+    - # a world of minor differences
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617566922526949376/Grant_Kirkhope_-_Hero_Klungo_Sssavesss_Teh_World.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/626659100322693129/Jakeneutron_-_Steven_Were_Falling.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/725092261301452831/nelward_-_Tribute_to_Hope_Depot.rdzip"
+    - # Anomaly (extended edition)

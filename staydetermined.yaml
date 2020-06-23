@@ -1,12 +1,11 @@
 - take: 99
-  levels: [
-    "https://cdn.discordapp.com/attachments/362784581344034816/662445508245061643/Toby_Fox_-_Fallen_Down.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/623280355733930034/Toby_Fox_-_Beginning.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/654734743912579112/Toby_Fox_-_Rouxls_Kaard.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/623280457932472340/Toby_Fox_-_Hip_Shop.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/623277897225863198/Toby_Fox_-_A_Town_called_Hometown.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/623280392048214016/Toby_Fox_-_Fanfare_From_Rose_of_Winter.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/617562503916027934/Galactic_Hole_-_lancer_from_deltarune_raps.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/625847890199314442/Toby_Fox_-_THE_WORLD_REVOLVING.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/674334624406831127/Toby_Fox_-_MEGALOVANIA.rdzip",
-  ]
+  levels:
+    - "https://cdn.discordapp.com/attachments/362784581344034816/662445508245061643/Toby_Fox_-_Fallen_Down.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/623280355733930034/Toby_Fox_-_Beginning.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/654734743912579112/Toby_Fox_-_Rouxls_Kaard.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/623280457932472340/Toby_Fox_-_Hip_Shop.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/623277897225863198/Toby_Fox_-_A_Town_called_Hometown.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/623280392048214016/Toby_Fox_-_Fanfare_From_Rose_of_Winter.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617562503916027934/Galactic_Hole_-_lancer_from_deltarune_raps.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/625847890199314442/Toby_Fox_-_THE_WORLD_REVOLVING.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/674334624406831127/Toby_Fox_-_MEGALOVANIA.rdzip"
