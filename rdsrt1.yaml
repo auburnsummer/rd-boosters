@@ -1,32 +1,32 @@
 - take: 99999 # an arbitarily large number means: just grab all the levels
-  levels: [
-    "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip",
-    # Further
-    "https://cdn.discordapp.com/attachments/611380148431749151/717072254990680074/Hirokazu_Ando_-_Take_a_Rest.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/646713957725241355/AlienAlien.rdzip",
-    # Steel Mill
-    "https://cdn.discordapp.com/attachments/611380148431749151/719184990595973231/Bossfight_-_Elevatia.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/724806827937628170/SoraMafuUraSaka_-_Role-Playing_Game.rdzip"
-    # Miami Nights
-    "https://cdn.discordapp.com/attachments/611380148431749151/717076012155797619/dj_REMO-CON_-_Click_Again.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/719297905416077312/Destroid_-_Funk_Hole.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/717075987312934982/IGOR_-_Testify.rdzip",
-    # My Future Girlfriend
-    "https://cdn.discordapp.com/attachments/611380148431749151/717072216897880114/DDRKirbyISQ_-_Solar_Beam.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/717075963657191424/Xeno_-_Beat_Distinguisher.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/717076031034622042/LamazeP_-_Triple_Baka.rdzip",
-    # exorcism arrow
-    "https://cdn.discordapp.com/attachments/611380148431749151/717075902630199366/Noisemaker_-_Repent_Your_Sins.rdzip",
-    # flamingo
-    "https://cdn.discordapp.com/attachments/611380148431749151/717075934506909756/IAHN_-_Happy_Welus.rdzip",
-    # Money
-    # 15 Step
-    "https://cdn.discordapp.com/attachments/611380148431749151/717071855843934208/Are_We_The_Waiting_-_St._Jimmy.rdzip",
-    # Ghosts Play to the Audience
-    "https://cdn.discordapp.com/attachments/611380148431749151/717076048839180399/Taskmusic_-_Sunset.rdzip",
-    "https://cdn.discordapp.com/attachments/611380148431749151/717079575397662770/Washington_-_How_to_Tame_Lions.rdzip",
-    # Chopin ????
-    "https://cdn.discordapp.com/attachments/611380148431749151/617826740378533908/ALRT_-_My_Level.rdzip",
-    # Duo Blade Against
-  ]
+  levels:
+    - "https://cdn.discordapp.com/attachments/611380148431749151/644361038656962561/Kyary_Pamyu_Pamyu_-_PONPONPON.rdzip"
+    - # Further
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717072254990680074/Hirokazu_Ando_-_Take_a_Rest.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/646713957725241355/AlienAlien.rdzip"
+    - # Steel Mill
+    - "https://cdn.discordapp.com/attachments/611380148431749151/719184990595973231/Bossfight_-_Elevatia.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617827834567589928/O-SE_-_Cut_Gravity.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/724806827937628170/SoraMafuUraSaka_-_Role-Playing_Game.rdzip"
+    - # Miami Nights
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717076012155797619/dj_REMO-CON_-_Click_Again.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/719297905416077312/Destroid_-_Funk_Hole.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717075987312934982/IGOR_-_Testify.rdzip"
+    - # My Future Girlfriend
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717072216897880114/DDRKirbyISQ_-_Solar_Beam.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717075963657191424/Xeno_-_Beat_Distinguisher.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717076031034622042/LamazeP_-_Triple_Baka.rdzip"
+    - # exorcism arrow
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717075902630199366/Noisemaker_-_Repent_Your_Sins.rdzip"
+    - # flamingo
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717075934506909756/IAHN_-_Happy_Welus.rdzip"
+    - # Money
+    - # 15 Step
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717071855843934208/Are_We_The_Waiting_-_St._Jimmy.rdzip"
+    - # Ghosts Play to the Audience
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717076048839180399/Taskmusic_-_Sunset.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/717079575397662770/Washington_-_How_to_Tame_Lions.rdzip"
+    - # Chopin ????
+    - "https://cdn.discordapp.com/attachments/611380148431749151/617826740378533908/ALRT_-_My_Level.rdzip"
+    - # Duo Blade Against
+ 
