@@ -81,3 +81,7 @@
 - title: "Competition archives: Smol 2"
   description: "Entries to the Smol 2 competition"
   file: "smol2"
+  
+- title: "Random Levels"
+  description: "Randomly selects 10 levels from the website."
+  file: "random"
