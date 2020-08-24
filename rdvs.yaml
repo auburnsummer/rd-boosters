@@ -1,6 +1,6 @@
 
 - take: 30
-  levels: [
+  levels: 
     - "https://cdn.discordapp.com/attachments/611380148431749151/744655295464341524/Bobacupcake_-_Melon_Bread.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/744665734168444928/Neal_Hefti_-_Batman_Theme.rdzip"
     - # magical flavor
@@ -24,8 +24,3 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/744701411194830858/Virtual_Riot_-_Energy_Drink.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/744700522086400029/Teikyou_-_Midnight.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/744708601649823804/Orange_Wolke_-_Dont_Eat_Me.rdzip"
-    
-    
-    
-
-  ]
