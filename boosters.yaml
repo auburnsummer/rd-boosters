@@ -45,6 +45,14 @@
   description: "Quality not guaranteed."
   file: "meme"
 
+- title: "Competition archives: Uncommon Genre"
+  description: "Entries to the Uncommon Genre competition"
+  file: "uncommongenre"
+  
+- title: "Competition archives: Medley"
+  description: "Entries to the Medley competition"
+  file: "medley"
+
 - title: "Competition archives: Storyteller"
   description: "Entries to the Storyteller competition"
   file: "storyteller"
