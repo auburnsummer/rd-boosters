@@ -1,12 +1,12 @@
 - take: 200
-  levels: 
+  levels:
     - # ROUND 0
     - "https://cdn.discordapp.com/attachments/611380148431749151/729052442406289408/They_Might_Be_Giants_-_Science_is_Real.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/729156588350210048/Amidst_-_Our_Love_ft._Jaime_Deraz.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/729141708776013874/Wrong_Enemy_.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/729059719464878130/Volbeat_-_Still_Counting.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/729049240936120380/Powapowa-P_-_Someone_Who_Sings_Songs.rdzip"
-    - # nodding hawk
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777702816008896523/M2U_-_Nodding_Hawk.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/729095948042502164/Making_music_on_the_internet.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/743651413883748372/siromaru__cranky_-_conflict.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768414962019598336/RainbowDragonEyes_-_Creatures_Ov_Deception.rdzip"
@@ -20,7 +20,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/731828050370625536/Kubbi_-_Sleet.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/732762212778639460/Kyle_Gabler_-_You_Will_Be_Evaluated.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/731731328390922260/RYVN_-_Run_Away.rdzip"
-    - # Bring it on
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777703127607541810/Giga-P_-_Bring_it_On.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/734503010436382730/Craig_Barnes_-_Dont_Stop_Movin_Like_Really_Killer_Robot_is_After_You.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768415020895043584/Monstrosity_-_Cognition_Factory.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/731743261215162388/Moonsweater_-_Corporate.rdzip"
@@ -36,7 +36,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/736740673729855538/EDEN_-_Wake_Up_release_version_2.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/735540195922935958/Camellia_-_Fly_To_Night_Tonight.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/735619347870908416/Waterflame_-_Schuhmacher_fly_Remix.rdzip"
-    - # fireworks
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777703493673943070/DAOKO_X_Kenshi_Yonezu_-_Fireworks.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/735687365229805588/Beneath_This_Sky.rdzip"
     - # hurricane
     - "https://cdn.discordapp.com/attachments/611380148431749151/765828582853312524/Tomoya_Ohtani_-_Perfection_Space_Elementary_School_Band.rdzip"
@@ -49,7 +49,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/739148663846338570/B-Complex_-_Beautiful_Lies.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/760515189052407839/BurninButWithMoreFairRankMargins.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/739175726514831380/4mat_-_Paper_Dolls.rdzip"
-    - # the wolf
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777704264243478589/Morphal_ProjectSIAMS_-_The_Wolf_Morphal_Project_Remix.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/739149345743569017/BigRareDreamingAndDriving.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/739248265341567046/Hafiz_Azman__Jade_Kim_-_Love_Letters_release_version_1.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/740799210114383962/Five_Nights_at_Freddys.rdzip"
@@ -64,7 +64,8 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/742595022582448151/LNE_-_Rve_Lucide.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768415096237195294/flashygoodness_COCONABE_-_Tower_of_Heaven.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/743280176166862868/Orangestar_-_Daydream_Sky_Train.rdzip"
-    - # disco night
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777704451535798282/Sugar__Co._-_tapestopnight.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777704726874554418/ANK_-_Disco_Night.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/742716614281265163/Niko_Groove_of_the_NHC.rdzip"
     - # severing the chains of fate
     - # azure temple zone
@@ -77,7 +78,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/748032148107165800/Camellia_-_Arcology_On_Permafrost.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/748202288149168189/Dance_of_the_Decorous_and_March_of_the_Profane.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/748220144299409468/ZUN_-_Beloved_Tomboyish_Girl.rdzip"
-    - # super strong cavity
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777705099165433886/Camellia_feat._Nanahira_-_Super_Strong_Cavity_Reconstructor_Drill_Chu.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/748160390244073472/Douglas_Holmquist_-_Smash_Hit_-_Part_2.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/748119445368471572/Takumi_Naramura_-_Giants_Cry.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/748043471767470110/meganeko_-_Computer_Blues.rdzip"
@@ -89,7 +90,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/751444580573905006/Hitori_Tori_yambabom_-_perthed_again_yambabom_remix.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/751292317813702716/Geshtro_Toby_Fox_-_DATA_VALUE_NULLVOID.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/765317692042772490/Danimal_Cannon_and_Zef_-_Corrupted.rdzip"
-    - # cry
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777705374568022046/Xtrullor_-_Cry.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/751507372723273768/Ridiculon_-_The_End_Is_Anguish__Mortaman.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/751375746466840637/Sakuraburst_-_Data_Corruption_Symphony_Less_Insom.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/751603799776559134/equinox7_Aphex_Twins_Junichi_Masuda_-_vordhosbn_town.rdzip"
@@ -101,7 +102,7 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/757097496706154609/Virtual_Riot_-_Idols.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/757091490081275914/Ikson_-_Views.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/757106243684007966/Roc_the_Dillettante_Maria_Takeuchi_Drum_Skin_-_Fall_Breaks.rdzip"
-    - # space invaders
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777705880262672434/Teminite__MDK_-_Space_Invaders.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/757331679651037204/Matchbox_Twenty_-_How_Far_Weve_Come_1.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/757092302157119599/Carpenter_Brut_-_Roller_Mobster.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/757175816374190100/Deniz_Akbalut_-_Raid.rdzip"
@@ -110,7 +111,7 @@
     - # ROUND 8 (the GM team is doing a great job)
     - "https://cdn.discordapp.com/attachments/611380148431749151/762334032780197938/Shirobon_-_Hack_the_Mainframe.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/762421304141021224/Yoh_Kamiyama_-_YELLOW.rdzip"
-    - # turing love
+    - "https://drive.google.com/uc?export=download&id=1nsoW3BT2MR8TQk62dKuCEayMKebwUcZL"
     - "https://cdn.discordapp.com/attachments/611380148431749151/762334709191016458/Saiya_-_Remote_Control.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/762448686248493076/telecasterStripes_rdshowcase_ver.rdzip"
     - # great great
@@ -120,9 +121,14 @@
     - "https://cdn.discordapp.com/attachments/611380148431749151/768325443907878952/IGOR_-_Devil_Has_A_Name.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768475760418750524/LUNE_-_Reve_Lucide_revengeance_shift_rdshowcase_ver.rdzip"
     - # avalanche
-    - # anti-joker
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777706307683614740/Maiki-P_-_Anti-Joker.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768326391313203240/Toa_nameless_-_Patchwork_Staccato.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768327025206493224/Virtual_Riot_-_Idols_Night_Shift.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768568655310356490/Klergy_-_The_End.rdzip"
     - "https://cdn.discordapp.com/attachments/611380148431749151/768434933462335488/Craig_Barnes_-_The_Mayors_Lament.rdzip"
     - # ROUND 10 (uh oh)
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777694942280810536/23.exe_-_ochatime_.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777699220328677387/Magic_of_Science_Medley_with_comments.rdzip"
+    - "https://cdn.discordapp.com/attachments/611380148431749151/777708379682373642/Harumaki_Gohan_-_Melty_Land_Nightmare.rdzip"
+    - # not believe
+    - "https://drive.google.com/uc?export=download&id=1kjARUMbZ6F48TJ8DWsU8cu1DZyjaOL0R"
