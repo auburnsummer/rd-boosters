@@ -24,7 +24,7 @@
 - title: "Competition Winners"
   description: "Levels that won their themed competitions."
   file: "competition"
-  
+
 - title: "Le Perv Origins"
   description: "A collection of the levels featured in the Le Perv community remix"
   file: "perv"
@@ -32,11 +32,11 @@
 - title: "RDSRT1"
   description: "Levels featured in the first Rhythm Doctor Sight Reading Tournament."
   file: "rdsrt1"
-  
+
 - title: "RDSRT2"
   description: "Levels featured in the second Rhythm Doctor Sight Reading Tournament."
   file: "rdsrt2"
-  
+
 - title: "Stay Determined"
   description: "This level pack fills you with DETERMINATION."
   file: "staydetermined"
@@ -48,7 +48,7 @@
 - title: "Competition archives: Uncommon Genre"
   description: "Entries to the Uncommon Genre competition"
   file: "uncommongenre"
-  
+
 - title: "Competition archives: Medley"
   description: "Entries to the Medley competition"
   file: "medley"
@@ -89,7 +89,11 @@
 - title: "Competition archives: Smol 2"
   description: "Entries to the Smol 2 competition"
   file: "smol2"
-  
+
+- title: "Competition archives: Creepypasta 2"
+  description: "Entries to the Creepypasta 2 competition"
+  file: "creepypasta2"
+
 - title: "Random Levels"
   description: "Randomly selects 10 levels from the website."
   file: "random"
