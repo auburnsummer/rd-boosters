@@ -4,7 +4,6 @@
   levels:
     
     # chill vibes
-    
     - take: 4
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/739149345743569017/BigRareDreamingAndDriving.rdzip"
@@ -12,8 +11,7 @@
         - "https://cdn.discordapp.com/attachments/611380148431749151/833191813338628106/City_Girl_-_Ji-Euns_Sunset.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/684202248867282963/1f1n1ty_-_Veva.rdzip"
     
-    # funkin'
-    
+    # funkin' (easy)
     - take: 4
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/826790385430298644/DadBattle.rdzip"
@@ -21,13 +19,52 @@
         - "https://cdn.discordapp.com/attachments/611380148431749151/826754753974370344/kawai_sprite_-_Ugh.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/833215267399401512/sock.clip_-_Ballistic.rdzip"
 
+    # mountains
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/890826471109693440/dull_machine_-_september_9-23_update.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/655411686580420618/ANIMA_-_Moving_Mountains.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/813192969279635506/Wowa_-_White.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/860024509340188692/Green_Day_-_Wake_Me_Up_When_September_Ends.rdzip"
+        
+    # SNES
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/659846412967608323/Kazumi_Totaka_-_Creative_Exercise.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/833001178756677632/Ryoji_Yoshitomi_Yumiko_Kanki_Hajime_Hirasawa_-_Blastris_A.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/717072254990680074/Hirokazu_Ando_-_Take_a_Rest.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/744665077617000458/Binster_-_Red_Blue_Sanctuary.rdzip"
+        
+    # vanilla VFX
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/799444828453994517/Kikuo_-_XxX_Cat.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/814581511378305044/chambry_-_food.for.lions.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/813191798918217789/M2U_-_Masquerade.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/824309659967291402/BilliumMoto_-_Set_Me_Free.rdzip"
+        
+    # story mode style
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/822868511302615040/TransNeptunianObject.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/887536460058726441/Makeup_And_Vanity_Set_-_Illuminated_Inlet.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/873383015982727218/Shirobon_-_Born_Survivor.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/875514873746964510/Xeno_-_1BPS.rdzip"
+        
+    # classic customs
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/644360805491671041/Hatsune_Miku_-_Leekspin.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/737055808373915728/SymphonicGames_-_Two_Moons.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/705753617868652564/Hinkik_-_Time_Leaper.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/813248226659401788/Marianas_Trench_-_Rhythm_Of_Your_Heart.rdzip"
+        
 # medium sets
 
 - take: 1
   levels:
     
     # rewrite the stars
-    
     - take: 4
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/627983257987973140/Spaze_-_Believe.rdzip"
@@ -36,13 +73,53 @@
         - "https://cdn.discordapp.com/attachments/611380148431749151/625088255628673034/Zac_Efron_Zendaya_-_Rewrite_the_Stars.rdzip"
     
     # in bloom
-    
     - take: 4
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/815216398078050344/They_Might_Be_Giants_-_Cloissonne_Easy.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/713664756476674068/mel_rachie_English_cover_-_Goodbye_Ms._Flower_Thief.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/690939858130042970/Sakuzyo_-_Altale.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/825321288729624586/Chinozo_Rachie_Eng._Cover_-_Goodbye_Sengen.rdzip"
+        
+    # sad bangers
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/832422449341399100/Lubalin_-_dont_know.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/859562827067949056/Secret_Keeper_-_Gravestones.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/859082848203833354/nostraightanswer_-_wishing_well.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/900181620705857546/rain_-_eyes_in_the_dark.rdzip"
+
+    # misprescribed medicine
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/813192414520148008/I_DONT_KNOW_HOW_BUT_THEY_FOUND_ME_-_Sugar_Pills.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/800959405712474152/Niru_Kajitsu_Miyashita_Yuu_-_Wozwald.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/853729989995528192/caseJackal_-_DRUGS_DRUGS_DRUGS.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/685267832098914304/DM_DOKURO_-_1NF3StAt0N.rdzip"
+
+    # jazz candy
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/697072049591549981/zts_-_airs_gravity.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/684225049590366268/Fahrenheit.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/685727039587745792/Teikyou_-_Deadly_Slot_Game.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/686810270210981898/Nate_Harrell_-_Jazz_Candy_VIP.rdzip"
+
+    # music videos
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/830140491403231272/Crystal_Taliefero_-_Chicka_Chicka_Boom_Boom.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/617579286186033162/KIRA_ft._GUMI_English_-_Machine_Gun.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/835687920136224816/Scott_The_Woz_Garrett_Williamson_-_Why_Don_t_You_Play_Them.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/813192071040598096/linear_ring_-_Enchanted_Love.rdzip"
+        
+    # syncopation series
+    - take: 5
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/855842927259287582/Auth_-_Syncopation_tutorial_korfixed2.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/823887964400255036/Popskyy_-_Initialize.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/817964817842569216/Cavetown_-_Just_Add_Water.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/820279556979294218/ALRT_-_My_Level.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/849439269692243978/Twenty_One_Pilots_-_Mulberry_Street.rdzip"
 
 # hard sets
 
@@ -50,7 +127,6 @@
   levels:
     
     # necrodancing
-    
     - take: 4
       levels:
         - "https://cdn.discordapp.com/attachments/611380148431749151/724412324366123038/Danny_Baranowsky_-_Fungal_Funk_ver2.rdzip"
@@ -59,10 +135,50 @@
         - "https://cdn.discordapp.com/attachments/611380148431749151/738728512281641010/bLiNd_Danny_Baranowsky_-_Fungal_Funk_bLiNd_Remix.rdzip"
     
     # eden
-    
     - take: 4
       levels:
-        - "https://cdn.discordapp.com/attachments/611380148431749151/736740673729855538/EDEN_-_Wake_Up_release_version_2.rdzip"
+        - https://cdn.discordapp.com/attachments/611380148431749151/852707535424847912/EDEN_-_Wake_Up_release_version_4.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/801271251406028900/EDEN_-_wings_final_v2.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/813198077010903040/EDEN_-_float.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/813199131534426132/EDEN_-_Man_Down.rdzip"
+
+    # making the most of the editor
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/876644676915056680/half_alive_-_still_feel.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/828731000636047400/Morrigan_-_GOLDEN_RULE.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/876968348687147008/Sungazer_-_Bird_on_the_Wing.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/833195502186135572/Shadrow_-_Shade_Fixed.rdzip"
+        
+    # funky fresh
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/839276814501019648/nelward_-_Ghost.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/744681388225331220/Andrew_Block_The_Noisy_Freaks_Ivan_Neville_-_All_I_Need_The_Noisy_Freaks_Remix2.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/883533575385935892/tpazolite_vs_Shohei_Tsuchiya_-_An_indignant_world.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/813191836852158544/PersphoneSUNDANCE_-_Retro_Funky_SUNDANCE_Remix.rdzip"
+
+    # classybeat
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/813195723133943868/Kitsune2_-_Rainbow_Tylenol.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/783459869167452160/NegaSquared_-_The_Circle.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/799822310701269022/EZFG_feat._VY2__VY1_-_Hurting_for_a_Very_Hurtful_Pain.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/778835696617783346/Spaze_-_Underworld.rdzip"
+
+    # popular games
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/864907355543306290/fizzd_feat._Colon_-_wish_i_could_care_less_minecraft_parody.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/827772796032909342/FNMeka_ft._Cameron_Sanderson_-_Airpod_Shotty.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/860476019021185024/The_Stupendium_-_And_So_We_Fall.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/886376114354782289/THE_PRIMALS_-_A_Long_Fall.rdzip"
+
+    # funkin' (hard)
+    - take: 4
+      levels:
+        - "https://cdn.discordapp.com/attachments/611380148431749151/871979927837233192/sock.clip_-_Lo-Fight.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/873930160473272351/phlox_-_Ron.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/901000265812049930/AnthemOverload_-_Diagraphephobia.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/870686679411859486/john_funkin_updated.rdzip"
+        
