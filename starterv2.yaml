@@ -137,7 +137,7 @@
     # eden
     - take: 4
       levels:
-        - https://cdn.discordapp.com/attachments/611380148431749151/852707535424847912/EDEN_-_Wake_Up_release_version_4.rdzip"
+        - "https://cdn.discordapp.com/attachments/611380148431749151/852707535424847912/EDEN_-_Wake_Up_release_version_4.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/801271251406028900/EDEN_-_wings_final_v2.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/813198077010903040/EDEN_-_float.rdzip"
         - "https://cdn.discordapp.com/attachments/611380148431749151/813199131534426132/EDEN_-_Man_Down.rdzip"
